@@ -1,0 +1,12 @@
+id	AntibioticUsage	observed_otus
+#q2:types	categorical	numeric
+WT.unt.1	None	136
+WT.unt.2	None	124
+WT.unt.3	None	140
+WT.unt.4	None	130
+WT.unt.7	None	134
+WT.day3.11	Streptomycin	43
+WT.day3.13	Streptomycin	28
+WT.day3.15	Streptomycin	24
+WT.day3.14	Streptomycin	32
+WT.day3.9	Streptomycin	35
